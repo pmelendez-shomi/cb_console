@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/pmelendez-shomi/cb_console/issues"
   },
-  "homepage": "https://github.com/pmelendez-shomi/cb_console#readme"
+  "homepage": "https://github.com/pmelendez-shomi/cb_console#readme",
+  "dependencies": {
+    "config": "^1.17.1",
+    "couchbase": "^2.1.2"
+  }
 }
